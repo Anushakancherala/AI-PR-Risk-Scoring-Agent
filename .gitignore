@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Environment variables (contains secrets - never commit)
+.env
+
+# GitHub App private keys
+*.pem
+
+# Python bytecode cache
+__pycache__/
